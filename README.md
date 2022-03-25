@@ -19,6 +19,7 @@ This is a basic mandelbulb program which based on OpenGL and GLFW.
   Mouse Control 				- Direction
 
 - Example
+
 ![1](/Picture/Growth.gif)
 ![2](/Picture/4.jpg)
 ![3](/Picture/3.jpg)
